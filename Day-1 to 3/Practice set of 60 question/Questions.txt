@@ -1,0 +1,81 @@
+BASICS + VARIABLES + INPUT
+Print your name
+Print your city
+Store age in variable
+Store company name
+Take user input
+Add two numbers
+Swap two variables
+Calculate square
+Calculate cube
+Find average of 2 numbers
+
+
+
+DATA TYPES + TYPE CONVERSION
+Check type of variable
+Convert string to int
+Convert float to int
+Convert int to string
+Take age input and convert to int
+Add two float numbers
+Multiply decimal values
+Convert km to meters
+Convert minutes to seconds
+Calculate simple interest
+
+
+
+OPERATORS
+Find remainder
+Find power using **
+Use floor division
+Calculate total marks
+Calculate percentage
+Check greater number
+Compare 2 numbers
+Compare 3 numbers
+Use logical AND
+Use logical OR
+
+
+
+CONDITIONS
+Check even/odd
+Positive/negative
+Pass/fail
+Voting eligibility
+Largest among 2 numbers
+Largest among 3 numbers
+Divisible by 5
+Divisible by 2 and 3
+Login checker
+Grade calculator
+
+
+
+NESTED CONDITIONS
+ATM withdrawal condition
+Age + ID verification
+Employee bonus eligibility
+Scholarship eligibility
+Ticket booking eligibility
+Bank loan eligibility
+Student result system
+Password + OTP checker
+Electricity bill condition
+Shopping discount system
+
+
+
+LOGICAL THINKING QUESTIONS
+Leap year checker
+Triangle validity
+Find smallest number
+Temperature checker
+BMI calculator
+Salary tax checker
+Weekend checker
+Movie age restriction
+Online order eligibility
+Mobile password validation
